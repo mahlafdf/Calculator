@@ -6,5 +6,5 @@
 </ul>
 <a href="https://www.youtube.com/watch?v=6v4vBXL-qkY">See the source</a>
 <ul>
-  <li><a href="https://mahlafdf.github.io/calculator/"> See the Project </a></li>
+  <li><a href="https://mahlafdf.github.io/Calculator/"> See the Project </a></li>
 </ul>
